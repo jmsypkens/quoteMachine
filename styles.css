@@ -1,9 +1,9 @@
 .centered {
   position: fixed;
-  top: 50%;
+  top: 25%;
   left: 50%;
-  margin-top: -50px;
-  margin-left: -100px;
+  margin-top: -0px;
+  margin-left: -120px;
 }
 .green {
     background-color: #468966; 
@@ -13,8 +13,8 @@
     border-radius: 15px 50px;
     border: 1px solid #FFB03B; 
     background-color: #FFB03B;
-    height: 250px;
-    width: 350px; 
+    height: 350px;
+    width: 400px; 
     text-decoration: none; 
     font-family: sans-serif;
     color: #468966;
