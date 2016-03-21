@@ -27,3 +27,16 @@
 .yellow p {
     padding-top: 25px; 
 }
+
+.quotes {
+    margin: 25px; 
+    background-color: #011C26;
+    border-radius: 25px; 
+    color: #FFB03B;
+    font-size: 3em; 
+    padding: 200px;
+}
+
+.author {
+    font-style: italic;
+}
