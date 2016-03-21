@@ -1,4 +1,29 @@
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
 .green {
     background-color: #468966; 
-    height: 100px;
+}
+
+.yellow {
+    border-radius: 15px 50px;
+    border: 1px solid #FFB03B; 
+    background-color: #FFB03B;
+    height: 250px;
+    width: 350px; 
+    text-decoration: none; 
+    font-family: sans-serif;
+    color: #468966;
+    padding: inherit;
+}
+
+.yellow h1 {
+    padding-top: 25px; 
+}
+.yellow p {
+    padding-top: 25px; 
 }
